@@ -1,0 +1,6 @@
+gradio==5.35.0
+trimesh==4.6.13 
+numpy==1.26.4
+pyglet<2
+networkx==3.4.2
+plotly==6.2.0
